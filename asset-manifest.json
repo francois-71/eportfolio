@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.007a5fcc.css",
+    "main.js": "/static/js/main.665ccf7f.js",
+    "static/media/francois.jpg": "/static/media/francois.e84a78cb348567bb5eab.jpg",
+    "static/media/planeur.jpg": "/static/media/planeur.1c89560bd5799542c501.jpg",
+    "index.html": "/index.html",
+    "main.007a5fcc.css.map": "/static/css/main.007a5fcc.css.map",
+    "main.665ccf7f.js.map": "/static/js/main.665ccf7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007a5fcc.css",
+    "static/js/main.665ccf7f.js"
+  ]
+}
